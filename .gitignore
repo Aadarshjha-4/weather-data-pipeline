@@ -1,0 +1,16 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Generated Parquet data
+data/cleaned/
+
+# Secrets and environment variables
+.env
+
+# VS Code settings
+.vscode/
